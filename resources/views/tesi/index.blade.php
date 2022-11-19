@@ -58,7 +58,7 @@
                                     <td>{{ $tesi->nombreTes }}</td>
                                     <td>{{ $tesi->descripcionTes }}</td>
                                     <td>{{ $tesi->Etiqueta->nombreEtiqueta}}</td>
-                                    <td><a href="/ArchivosTes/{{ $tesi->documentoTes  }}" target="black_">Ver documento </a></td>
+                                    <td><a href="/archivosTes/{{ $tesi->documentoTes  }}" target="black_">Ver documento </a></td>
 
                                     <td>{{ $tesi->fechaPublicacionTes }}</td>
 

@@ -60,7 +60,7 @@
                                     <td>{{ $libroRevista->titulo }}</td>
                                     <td>{{ $libroRevista->cant_pag }}</td>
                                     <td>{{ $libroRevista->etiqueta->nombreEtiqueta }}</td>
-                                    <td><a href="/Libros/{{ $libroRevista->documentoLR  }}" target="black_">Ver documento </a></td>
+                                    <td><a href="/libros/{{ $libroRevista->documentoLR  }}" target="black_">Ver documento </a></td>
 
                                     <td>{{ $libroRevista->fechaPublicacionLR }}</td>
 
