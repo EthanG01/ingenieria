@@ -90,7 +90,7 @@ class ArticuloController extends Controller
                    $rutaGuardarArticulos = 'archivoArticulo/';
                    $documentoArtArticulo = date('YmdHis'). "." .$documentoArt->getClientOriginalExtension();
                    $documentoArt->move($rutaGuardarArticulos, $documentoArtArticulo);
-                   $tesi['documentoArt'] = "$documentoArtArticulo";
+                   $articulo['documentoArt'] = "$documentoArtArticulo";
                }
                Articulo::create($articulo);
                  return redirect()->route('articulos.index')
