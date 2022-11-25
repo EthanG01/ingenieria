@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Tesis</title>
+  <title>Galería</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <!-- Google Fonts -->
@@ -56,7 +56,7 @@
 
 
             <a class="nav-link" href="{{route('cliinvolucrado.index') }}" class="underline text-gray-900 dark:text-white">
-              ¿Quienes somos?
+              ¿Quiénes somos?
             </a>
           </li>
 
