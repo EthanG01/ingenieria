@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Tesis</title>
+  <title>¿Quiénes somos? </title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <!-- Google Fonts -->
@@ -56,7 +56,7 @@
 
 
             <a class="nav-link" href="{{route('cliinvolucrado.index') }}" class="underline text-gray-900 dark:text-white">
-              ¿Quienes somos?
+              ¿Quiénes somos?
             </a>
           </li>
 
@@ -108,7 +108,7 @@
 
               <!-- Slide 1 -->
               <div class="carousel-item active" style="background-image: url(assets2/img/slide/slide-7.jpg)">
-                  <div class="carousel-container">
+                  <div class="">
                       <div class="container">
                           <h2 class="animate__animated animate__fadeInDown">
                                <span></span></h2>
@@ -132,7 +132,7 @@
       <div class="col-md-4">
         <div class="card mb-4 mb-md-0">
           <div class="card-body">
-            <h5 class="card-title mt-3"> Observatorio Regional Chorotega ✅<h5>
+            <h5 class="card-title mt-3"> Observatorio Regional Chorotega<h5>
               <h6>Los Observatorios Regionales surgen como respuesta a la Política Institucional de Desarrollo Regional
                   (2018) como una instancia estratégica enfocada en las acciones de monitoreo, generación, análisis y comunicación
                   de información pertinente y oportuna del estado.
@@ -144,7 +144,7 @@
         <div class="card mb-4 mb-md-0">
           <div class="card-body">
 
-            <h5 class="card-title mt-3">Misión 🧩<h5>
+            <h5 class="card-title mt-3">Misión <h5>
               <h6>Unidad estratégica que monitorea, genera, analiza y comunica información pertinente y oportuna del estado de las regiones
                   y el desarrollo integral, para la orientación de las
                   acciones sustantivas universitarias e interuniversitarias.</h6>
@@ -154,7 +154,7 @@
       <div class="col-md-4">
         <div class="card mb-4 mb-md-0">
           <div class="card-body">
-            <h5 class="card-title mt-3">Visión 🧩<h5>
+            <h5 class="card-title mt-3">Visión <h5>
               <h6>Ser un observatorio referente en el estudio y análisis de la realidad regional,
                   que incide en la toma de decisiones institucional e interinstitucional para el desarrollo integral e inclusivo.</h5>
           </div>
@@ -307,7 +307,7 @@
 
           <div class="col-lg-6">
             <div class="testimonial-item">
-              <img src="assets2/img/team/Ivan.jpg" class="testimonial-img" alt="">
+              <img src="assets2/img/team/Ivan.jpeg" class="testimonial-img" alt="">
               <h3>Joseph Alvardo</h3>
               <h4>Backend</h4>
             
@@ -315,7 +315,7 @@
           </div>
           <div class="col-lg-6">
             <div class="testimonial-item">
-              <img src="assets2/img/team/Ethan.jpg" class="testimonial-img" alt="">
+              <img src="assets2/img/team/Ethan.jpeg" class="testimonial-img" alt="">
               <h3>Ethan Madrigal</h3>
               <h4>Backend</h4>
             
@@ -323,7 +323,7 @@
           </div>
           <div class="col-lg-6">
             <div class="testimonial-item">
-              <img src="assets2/img/team/Grettel.jpg" class="testimonial-img" alt="">
+              <img src="assets2/img/team/Grettel.jpeg" class="testimonial-img" alt="">
               <h3>Grettel Rodríguez</h3>
               <h4>Frontend</h4>
             
@@ -331,9 +331,9 @@
           </div>
           <div class="col-lg-6">
             <div class="testimonial-item">
-              <img src="assets2/img/team/Ivan.jpg" class="testimonial-img" alt="">
-              <h3>Gerald Gonzaless</h3>
-              <h4>Backend y Frontend</h4>
+              <img src="assets2/img/team/Gerald.jpeg" class="testimonial-img" alt="">
+              <h3>Gerald Gonzalez</h3>
+              <h4>Full stack</h4>
             
             </div>
           </div>

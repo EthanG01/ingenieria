@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Observatorio SRCH</title>
+  <title>Repositorio</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
   <!-- Google Fonts -->
@@ -55,7 +55,7 @@
 
 
             <a class="nav-link" href="{{route('cliinvolucrado.index') }}" class="underline text-gray-900 dark:text-white">
-              ¿Quienes somos?
+              ¿Quiénes somos?
             </a>
           </li>
 
@@ -124,7 +124,7 @@
             <div class="box featured">
               <h3>Artículos</h3>
               <ul>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, cum nisi quos corporis temporibus quia velit excepturi quisquam soluta sapiente, nihil odit. Error earum quidem quia, adipisci nisi maiores rem?</li>
+                <li>Aquí vas a encontrar textos publicados en revistas especialidad o multi disciplinarios resultados de los PPAAs.</li>
               </ul>
               <div class="btn-wrap">
                 <a href="{{route('cliarticulo.index') }}" class="btn-buy">Ver más</a>
@@ -136,7 +136,7 @@
             <div class="box featured">
               <h3>Tesis</h3>
               <ul>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, cum nisi quos corporis temporibus quia velit excepturi quisquam soluta sapiente, nihil odit. Error earum quidem quia, adipisci nisi maiores rem?</li>
+                <li>Documentos de carácter expositivo que presentan resultados obtenidos por estudiantes de la UNA en sus trabajos de investigación.</li>
               </ul>
               <div class="btn-wrap">
                 <a href="{{route('clitesi.index') }}" class="btn-buy">Ver más</a>
@@ -147,7 +147,7 @@
             <div class="box featured">
               <h3>Libros/Revistas</h3>
               <ul>
-                <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, cum nisi quos corporis temporibus quia velit excepturi quisquam soluta sapiente, nihil odit. Error earum quidem quia, adipisci nisi maiores rem?</li>
+                <li>Obras compuestas que expresan en su contenido trabajos literarios, académicos, técnicos, científicos, bibliográficos y otros. </li>
               </ul>
               <div class="btn-wrap">
                 <a href="{{route('clilibrorevis.index') }}" class="btn-buy">Ver más</a>

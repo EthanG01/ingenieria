@@ -55,7 +55,7 @@
 
           <li class="nav-item active">
             <a class="nav-link" href="{{route('cliinvolucrado.index') }}" class="underline text-gray-900 dark:text-white">
-              ¿Quienes somos?
+              ¿Quiénes somos?
             </a>
           </li>
 
@@ -71,7 +71,7 @@
           </li>
           <li class="dropdown"><a href="{{route('clirepo.index') }}"><span>Repositorio</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
-              <li><a href="{{route('cliarticulo.index') }}">Articulos</a></li>
+              <li><a href="{{route('cliarticulo.index') }}">Artículos</a></li>
               <li><a href="{{route('clitesi.index') }}">Tesis</a></li>
               <li><a href="{{route('clilibrorevis.index') }}">Libros/Revistas</a></li>
             </ul>
@@ -87,8 +87,6 @@
               Register
             </a>
           </li>
-
-
 
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
@@ -234,12 +232,12 @@
       <div class="circle"></div>
       <div class="img">
 
-        <img src="/logos/{{$invo->proyecto->categoria->logo}}" width="75%">
+        <img src="/logos/{{$invo->categoria->logo}}" width="75%">
       </div>
     </div>
     <div class="descripcion">
-      <h3>{{$invo->proyecto->nombreProyecto}}</h3>
-      <p> {{$invo->proyecto->descripcionProyecto}}</p>
+      <h3>{{$invo->nombreProyecto}}</h3>
+      <p> {{$invo->descripcionProyecto}}</p>
     </div>
     <div class="contact">
       <a href="{{route('InvPro.index') }}">Leer más</a>
