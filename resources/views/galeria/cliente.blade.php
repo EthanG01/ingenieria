@@ -132,7 +132,7 @@
                 <h4>{{$galery->descripcionGaleria}}</h4>
                 <p>{{$galery->tema->tema}}</p>
                 <div class="portfolio-links">
-                  <a href="/imagenes/{{$galery->imagen}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                  <a href="/imagenes/{{$galery->imagen}}" data-gallery="portfolioGallery" class="portfolio-lightbox" title=""><i class="bx bx-plus"></i></a>
                 </div>
               </div>
             </div>
