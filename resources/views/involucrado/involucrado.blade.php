@@ -308,7 +308,7 @@
           <div class="col-lg-6">
             <div class="testimonial-item">
               <img src="assets2/img/team/Ivan.jpeg" class="testimonial-img" alt="">
-              <h3>Joseph Alvardo</h3>
+              <h3>Joseph Alvarado</h3>
               <h4>Backend</h4>
             
             </div>
